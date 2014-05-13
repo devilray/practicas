@@ -1,0 +1,197 @@
+# depslib dependency file v1.0
+1393499898 source:c:\documents and settings\alumno\escritorio\tp\tpbloquei\tpbloquei.c
+	<SDL2/SDL.h>
+	<stdlib.h>
+	<stdio.h>
+
+1394194704 source:c:\users\paco\desktop\tpbloquei\tpbloquei.c
+	<SDL2/SDL.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+
+1397119593 source:c:\documents and settings\alumno\escritorio\tpbloquei\tpbloquei.c
+	<stdlib.h>
+	<stdio.h>
+	"MiSDL.h"
+	"MiJuego.h"
+	"MiArbol.h"
+	<time.h>
+
+1395916991 source:c:\documents and settings\alumno\escritorio\tppracticas\tpbloquei (nuevo)\tpbloquei.c
+	<SDL2/SDL.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<SDL2/SDL_ttf.h>
+	<string.h>
+	<errno.h>
+
+1395917223 source:c:\documents and settings\alumno\escritorio\tppracticas\tpbloquei\tpbloquei.c
+	<SDL2/SDL.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<SDL2/SDL_ttf.h>
+	<string.h>
+	<errno.h>
+
+1396872226 source:c:\documents and settings\alumno\escritorio\tpbloquei\miarbol.c
+	"MiArbol.h"
+	"MiSDL.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1396516314 c:\documents and settings\alumno\escritorio\tpbloquei\misincludes\miarbol.h
+	"MiSDL.h"
+
+1395919094 c:\documents and settings\alumno\escritorio\tpbloquei\misincludes\misdl.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+
+1395919094 c:\documents and settings\alumno\escritorio\tpbloquei\misdl.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+
+1396872228 source:c:\documents and settings\alumno\escritorio\tpbloquei\mijuego.c
+	"MiJuego.h"
+	"miSDL.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"MiArbol.h"
+
+1396516590 c:\documents and settings\alumno\escritorio\tpbloquei\misincludes\mijuego.h
+	"MiSDL.h"
+
+1396635790 source:c:\documents and settings\alumno\escritorio\tpbloquei\misdl.c
+	"MiSDL.h"
+	<stdio.h>
+	<stdlib.h>
+
+1396872226 source:c:\documents and settings\alumno\escritorio\tpbloqueii\miarbol.c
+	"MiArbol.h"
+	"MiSDL.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1396516314 c:\documents and settings\alumno\escritorio\tpbloqueii\misincludes\miarbol.h
+	"MiSDL.h"
+
+1395919094 c:\documents and settings\alumno\escritorio\tpbloqueii\misincludes\misdl.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+
+1395919094 c:\documents and settings\alumno\escritorio\tpbloqueii\misdl.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+
+1396872228 source:c:\documents and settings\alumno\escritorio\tpbloqueii\mijuego.c
+	"MiJuego.h"
+	"miSDL.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"MiArbol.h"
+
+1396516590 c:\documents and settings\alumno\escritorio\tpbloqueii\misincludes\mijuego.h
+	"MiSDL.h"
+
+1396635790 source:c:\documents and settings\alumno\escritorio\tpbloqueii\misdl.c
+	"MiSDL.h"
+	<stdio.h>
+	<stdlib.h>
+
+1397119593 source:c:\documents and settings\alumno\escritorio\tpbloqueii\tpbloqueii.c
+	<stdlib.h>
+	<stdio.h>
+	"MiSDL.h"
+	"MiJuego.h"
+	"MiArbol.h"
+	<time.h>
+
+1396872226 source:c:\documents and settings\alumno\escritorio\tppracticas\tpbloqueii\miarbol.c
+	"MiArbol.h"
+	"MiSDL.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1396516314 c:\documents and settings\alumno\escritorio\tppracticas\tpbloqueii\misincludes\miarbol.h
+	"MiSDL.h"
+
+1395919094 c:\documents and settings\alumno\escritorio\tppracticas\tpbloqueii\misincludes\misdl.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+
+1395919094 c:\documents and settings\alumno\escritorio\tppracticas\tpbloqueii\misdl.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+
+1396872228 source:c:\documents and settings\alumno\escritorio\tppracticas\tpbloqueii\mijuego.c
+	"MiJuego.h"
+	"miSDL.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"MiArbol.h"
+
+1396516590 c:\documents and settings\alumno\escritorio\tppracticas\tpbloqueii\misincludes\mijuego.h
+	"MiSDL.h"
+
+1396635790 source:c:\documents and settings\alumno\escritorio\tppracticas\tpbloqueii\misdl.c
+	"MiSDL.h"
+	<stdio.h>
+	<stdlib.h>
+
+1397119594 source:c:\documents and settings\alumno\escritorio\tppracticas\tpbloqueii\tpbloqueii.c
+	<stdlib.h>
+	<stdio.h>
+	"MiSDL.h"
+	"MiJuego.h"
+	"MiArbol.h"
+	<time.h>
+
+1396872226 source:c:\documents and settings\alumno\escritorio\2\tpbloqueii\miarbol.c
+	"MiArbol.h"
+	"MiSDL.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1396516314 c:\documents and settings\alumno\escritorio\2\tpbloqueii\misincludes\miarbol.h
+	"MiSDL.h"
+
+1395919094 c:\documents and settings\alumno\escritorio\2\tpbloqueii\misincludes\misdl.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+
+1395919094 c:\documents and settings\alumno\escritorio\2\tpbloqueii\misdl.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+
+1396872228 source:c:\documents and settings\alumno\escritorio\2\tpbloqueii\mijuego.c
+	"MiJuego.h"
+	"miSDL.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"MiArbol.h"
+
+1396516590 c:\documents and settings\alumno\escritorio\2\tpbloqueii\misincludes\mijuego.h
+	"MiSDL.h"
+
+1396635790 source:c:\documents and settings\alumno\escritorio\2\tpbloqueii\misdl.c
+	"MiSDL.h"
+	<stdio.h>
+	<stdlib.h>
+
